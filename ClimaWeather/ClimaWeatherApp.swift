@@ -2,7 +2,7 @@
 //  ClimaWeatherApp.swift
 //  ClimaWeather
 //
-//  Created by Xiaojian Chen on 8/20/22.
+//  Created by Xiaojian Chen on 8/8/22.
 //
 
 import SwiftUI
